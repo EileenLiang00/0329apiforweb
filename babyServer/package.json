@@ -1,0 +1,33 @@
+{
+  "name": "babyserver",
+  "version": "1.0.0",
+  "description": "node api for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "handlebars": "^4.7.7",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^7.3.0"
+  },
+  "engines": {
+    "node": "14.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EileenLiang00/0329apiforweb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EileenLiang00/0329apiforweb/issues"
+  },
+  "homepage": "https://github.com/EileenLiang00/0329apiforweb#readme"
+}

@@ -1,0 +1,46 @@
+{
+    "success":{
+        "status":100,
+        "textMessage": "操作成功"
+    },
+    "error_connect": {
+        "status": 1,
+        "textMessage": "連線失敗"
+    },
+    "error_select": {
+        "status": 2,
+        "textMessage": "查尋失敗"
+    },
+    "error_insert": {
+        "status": 3,
+        "textMessage": "新增失敗"
+    },
+    "error_update": {
+        "status": 4,
+        "textMessage": "更新失敗"
+    },
+    "error_delete": {
+        "status": 5,
+        "textMessage": "刪除失敗"
+    },
+    "error_database_syntax":{
+        "status": 6,
+        "textMessage":"資料庫語法錯誤"
+    },
+    "error_check_data":{
+        "status": 7,
+        "textMessage":"資料確認錯誤"
+    },
+    "error_login":{
+        "status":8,
+        "textMessage":"登入失敗"
+    },
+    "error_signup":{
+        "status":9,
+        "textMessage":"已有相同電子郵件帳號"
+    },
+    "error_other": {
+        "status": 30,
+        "textMessage": "其他失敗"
+    }
+}
